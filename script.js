@@ -14,5 +14,6 @@ var tdAltura paciente.querySelector(".info-altura");
 var altura tdAltura.textContent;
 
 var tdImc paciente.querySelector(".info-imc");
+}
 
 
